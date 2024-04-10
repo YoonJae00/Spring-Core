@@ -10,6 +10,7 @@ import lombok.*;
 @ToString
 public class DTO {
 
+    private String name;
     private double height;
     private double weight;
 }

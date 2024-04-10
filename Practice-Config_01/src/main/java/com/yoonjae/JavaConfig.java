@@ -7,11 +7,11 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class JavaConfig {
 
-    @Bean
-    public BMICalculator bmiCalculator(){
-
-        return ;
-    }
+//    @Bean
+//    public BMICalculator bmiCalculator(){
+//
+//        return ;
+//    }
 
 
 }
